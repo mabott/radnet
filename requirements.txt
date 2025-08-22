@@ -1,2 +1,2 @@
-future==0.18.2
+future==1.0.0
 qumulo-api==2.14.3
